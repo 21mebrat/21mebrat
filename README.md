@@ -34,6 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=21mebrat&show_icons=true&locale=en&layout=compact" alt="21mebrat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21mebrat&show_icons=true&locale=en" alt="21mebrat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21mebrat&" alt="21mebrat" /></p>
