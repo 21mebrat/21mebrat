@@ -1,4 +1,4 @@
-![logo](https://github.com/21mebrat/21mebrat/blob/main/github_background.jpg)
+<img src="https://github.com/21mebrat/21mebrat/blob/main/github_background.jpg" alt="logo" width="100%" />
 <h1 align="center">Hi 👋, I'm Mebrat</h1>
 <h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
 <img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Ftyresswhite%2Fcoding-animations%2F&psig=AOvVaw1X_ACa4elpCwIuldEYc8ps&ust=1735715769064000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD377670YoDFQAAAAAdAAAAABAE" alt="">
