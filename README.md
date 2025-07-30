@@ -16,7 +16,8 @@
 
 - 📝 I regularly write articles on [https://github.com/21mebrat/blogProject](https://github.com/21mebrat/blogProject)
 
-- 💬 Ask me about **react,nextjs,node,express,html,css,javascript,tailwindCss,shadCN**
+- 💬 Ask me about **react,nextjs,node,express,html,css,javascript,tailwindCss,shadCN, MongoDB, PostgressSQL, Prism
+-  ORM**
 
 - 📫 How to reach me **maytotmat@gmail.com**
 
